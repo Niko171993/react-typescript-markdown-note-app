@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post Title 1",
+      "tags": [2, 4, 3]
+    },
+    {
+      "id": "2",
+      "title": "Post Title 1",
+      "tags": [2, 1, 3]
+    },
+    {
+      "id": "3",
+      "title": "Post Title 1",
+      "tags": ["html", "js"]
+    }
+  ],
+
+  "tags": [
+    {
+      "id": "1",
+      "tag": "HTML"
+    },
+    {
+      "id": "2",
+      "tag": "CSS"
+    },
+    {
+      "id": "3",
+      "tag": "javascript"
+    },
+    {
+      "id": "4",
+      "tag": "REACT"
+    }
+  ]
+}
